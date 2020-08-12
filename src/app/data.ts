@@ -38,13 +38,10 @@ export const steps = [
     ],
     classes: 'custom-class-name-1 custom-class-name-2',
     id: 'intro',
-    title: 'Welcome to Angular Shepherd!',
+    title: 'Innovapost Application Guide',
     text: `
           <p>
-            Angular Shepherd is a JavaScript library for guiding users through your Angular app.
-            It is an Angular library that wraps <a href="https://github.com/shipshapecode/shepherd">Shepherd</a>
-            and extends its functionality. Shepherd uses <a href="https://popper.js.org/">Popper.js</a>,
-            another open source library, to position all of its steps and enable entrance and exit animations.
+            Description ...
           </p>
         
           <p>
@@ -125,7 +122,7 @@ export const steps = [
       builtInButtons.back
     ],
     id: 'noAttachTo',
-    title: 'Centered Modals',
+    title: 'End',
     classes: 'custom-class-name-1 custom-class-name-2',
     text: 'If no attachTo is specified, the modal will appear in the center of the screen, as per the Shepherd docs.'
   }
