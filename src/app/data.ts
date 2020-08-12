@@ -45,8 +45,7 @@ export const steps = [
           </p>
         
           <p>
-            Popper makes sure your steps never end up off screen or cropped by an
-            overflow. Try resizing your browser to see what we mean.
+            bla bla bla..
           </p>`
   },
   {
@@ -124,6 +123,6 @@ export const steps = [
     id: 'noAttachTo',
     title: 'End',
     classes: 'custom-class-name-1 custom-class-name-2',
-    text: 'If no attachTo is specified, the modal will appear in the center of the screen, as per the Shepherd docs.'
+    text: 'You can now go back or end this session.'
   }
 ];
