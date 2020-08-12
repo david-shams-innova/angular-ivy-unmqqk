@@ -111,9 +111,7 @@ export const steps = [
     ],
     classes: 'custom-class-name-1 custom-class-name-2',
     id: 'buttons',
-    text: `For the common button types ("next", "back", "cancel", etc.), we implemented Ember actions
-          that perform these actions on your tour automatically. To use them, simply include
-          in the buttons array in each step.`
+    text: `Bla bla bla`
   },
   {
     buttons: [
